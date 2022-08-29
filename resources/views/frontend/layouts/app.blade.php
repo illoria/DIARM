@@ -17,6 +17,7 @@
     @stack('after-styles')
 </head>
 <body>
+    <!-- gbpltw,kz -->
     @include('includes.partials.read-only')
     @include('includes.partials.logged-in-as')
     @include('includes.partials.announcements')
